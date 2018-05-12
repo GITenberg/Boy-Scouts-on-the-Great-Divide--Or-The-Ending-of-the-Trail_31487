@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4406'
     url: http://www.gutenberg.org/2009/agents/4406
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31487#Boy-Scouts-on-the-Great-Divide--Or-The-Ending-of-the-Trail
 gutenberg_issued: '2010-03-03'
 gutenberg_type: Text
 identifiers:
